@@ -29,8 +29,3 @@ cp config/config.example.php config/config.php
 # Lancer avec un serveur local (XAMPP, Laragon, ou PHP built-in)
 php -S localhost:8000
 ```
-
-## Auteur
-
-**Vohariniaina Clarcki RASOANAIVO**
-[github.com/clarcki-RAS](https://github.com/clarcki-RAS)
